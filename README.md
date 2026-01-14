@@ -4,6 +4,14 @@
 
 This project represents a comprehensive implementation of data mutation patterns in modern web applications using Next.js 15 with React 19 features. It serves as an educational demonstration of advanced state management, server-client communication, and performance optimization techniques in full-stack React applications.
 
+---
+
+<p align="center">
+  <img src="https://github.com/Figrac0/Next-Data_Mutations_Implementation/blob/main/public/Main.gif" alt="Project Demo GIF - Full Application Walkthrough" width="800"/><br/>
+</p>
+
+---
+
 ## Core Concepts and Technologies
 
 ### Server-Side Data Mutations
